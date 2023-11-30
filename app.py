@@ -3,3 +3,6 @@ def greetings():
 
 def greet_user(name):
     print(f"Hello {name}, how are you doing today")
+
+def pabi():
+    print("good morning")
